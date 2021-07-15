@@ -67,14 +67,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="emooStore.exe" size="2090984">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="emooStore.exe" size="2124288">
       <assemblyIdentity name="emooStore" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>U6gW/ByF3mtMpW0iSDHf14u/YQnIRKEUFEZAp97/5Ho=</dsig:DigestValue>
+        <dsig:DigestValue>gnLRKakGNXAe29v3if5nZz7SxDtD5R5X7Wx5UZOqWUg=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
